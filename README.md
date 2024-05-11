@@ -1,1 +1,2 @@
 # leon-project
+## project notes
